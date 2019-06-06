@@ -1,0 +1,31 @@
+{
+  "name": "@loyhooks/use-axios",
+  "version": "1.0.0",
+  "description": "React Hook to execute a function when axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loy124/LoyHooks.git"
+  },
+  "keywords": [
+    "axios",
+    "react",
+    "hooks",
+    "react",
+    "axios"
+  ],
+  "author": "LEE ON YOU <dhsdb1541@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loy124/LoyHooks/issues"
+  },
+  "homepage": "https://github.com/loy124/LoyHooks#readme",
+  "peerDependencies": {
+    "axios": "^0.19.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

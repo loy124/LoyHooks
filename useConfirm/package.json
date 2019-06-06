@@ -1,0 +1,24 @@
+{
+  "name": "@loyhooks/use-confirm",
+  "version": "1.0.0",
+  "description": "React Hook to ask the user for a confirmation before executing a function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loy124/LoyHooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "confirm"
+  ],
+  "author": "LEE ON YOU <dshdb1541@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loy124/LoyHooks/issues"
+  },
+  "homepage": "https://github.com/loy124/LoyHooks#readme"
+}

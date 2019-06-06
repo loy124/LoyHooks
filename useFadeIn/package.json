@@ -1,0 +1,28 @@
+{
+  "name": "@loyhooks/use-fadein",
+  "version": "1.0.0",
+  "description": "React Hook to fade in any element.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loy124/LoyHooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "fade-in"
+  ],
+  "author": "LEE ON YOU <dhsdb1541@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loy124/LoyHooks/issues"
+  },
+  "homepage": "https://github.com/loy124/LoyHooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}

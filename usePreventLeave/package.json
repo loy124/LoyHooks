@@ -1,0 +1,24 @@
+{
+  "name": "@loyhooks/use-preventleave",
+  "version": "1.0.0",
+  "description": "React Hook to prompt the user for confirmation before leaving the page. Useful when changes haven't been saved.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loy124/LoyHooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "preventleave"
+  ],
+  "author": "LEE ON YOU <dshdb1541@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loy124/LoyHooks/issues"
+  },
+  "homepage": "https://github.com/loy124/LoyHooks#readme"
+}

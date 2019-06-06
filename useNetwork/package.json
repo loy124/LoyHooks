@@ -1,0 +1,34 @@
+{
+  "name": "@loyhooks/use-network",
+  "version": "1.0.1",
+  "description": "React Hook to listen when the user goes online or offline.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loy124/LoyHooks.git"
+  },
+  "keywords": [
+    "hooks",
+    "react",
+    "online",
+    "offline"
+  ],
+  "author": "LEE ON YOU <dhsdb1541@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loy124/LoyHooks/issues"
+  },
+  "homepage": "https://github.com/loy124/LoyHooks#readme",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {}
+}
